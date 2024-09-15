@@ -1,0 +1,6 @@
+/vendor/
+/.idea/
+/.cache/
+###> phpunit/phpunit ###
+/.phpunit.cache/
+###< phpunit/phpunit ###
